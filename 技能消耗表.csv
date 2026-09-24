@@ -1,0 +1,127 @@
+﻿技能ID,名称,类型,apCost(行动力消耗),MP消耗,冷却,倍率%,目标,描述
+enemy_bite,撕咬,主动,1,0,0,100,单体敌人,敌人技能：撕咬单体。
+enemy_curse,诅咒,主动,1,0,4,0,我方全体,敌人技能：削弱我方灵性与幸运。
+enemy_dark_flame,冥火,主动,1,0,4,110,我方全体,敌人技能：对全体我方造成 110% 攻击力魔法伤害。
+enemy_dread_roar,恐惧咆哮,主动,1,0,5,0,我方全体,敌人技能：削弱我方筋力与敏捷。
+enemy_heavy_blow,重击,主动,1,0,2,140,单体敌人,敌人技能：沉重一击，140% 攻击力。
+enemy_regen,再生,主动,1,0,4,0,自身,敌人技能：恢复自身生命。
+enemy_sweep,横扫,主动,1,0,3,80,我方全体,敌人技能：对全体我方造成 80% 攻击力伤害。
+enemy_venom,毒液,主动,1,0,3,90,单体敌人,敌人技能：喷射毒液，造成伤害并降低耐力。
+skill_arc_arrow_rain,箭雨,主动,1,14,3,82,全体敌人,覆盖射击，全体敌人 82% 攻击力。
+skill_arc_charged_shot,蓄力箭,主动,1,11,3,165,单体敌人,蓄力一击，165% 攻击力。
+skill_arc_hawk_eye,鹰眼,主动,1,9,3,0,我方全体,洞察弱点，全队幸运与敏捷提升。
+skill_arc_multishot,多重射击,主动,1,5,1,80,单体敌人,连射两箭，每箭 80% 攻击力。
+skill_arc_thousand_arrows,万箭齐发,主动,1,21,6,66,全体敌人,倾泻箭矢，对全体敌人连射两轮，每轮 66% 攻击力。
+skill_asm_double_slash,双剑连斩,主动,1,12,2,55,单体敌人,双刃交错，四段各 55% 攻击力。
+skill_asm_ghost_step,鬼步,主动,1,10,4,0,我方全体,身影飘忽，全队敏捷与幸运大幅提升。
+skill_asm_poison_blade,毒刃,主动,1,9,2,115,单体敌人,淬毒短刃，115% 攻击力并持续削弱敌方筋力。
+skill_asm_reaper,死神镰刀,主动,1,20,6,210,单体敌人,收割生命的一击，210% 攻击力。
+skill_asm_shadow_strike,暗影突袭,主动,1,6,1,135,单体敌人,自阴影中突刺，135% 攻击力。
+skill_cas_arcane_bolt,奥术飞弹,主动,1,7,0,142,单体敌人,凝聚魔力轰击单体，142% 攻击力。
+skill_cas_blizzard,暴风雪,主动,1,16,4,95,全体敌人,冰雪覆盖，全体敌人 95% 攻击力并减速。
+skill_cas_blood_curse,血之诅咒,主动,1,13,4,0,全体敌人,诅咒全体敌人，削弱其耐力与筋力。
+skill_cas_mana_surge,魔力涌动,主动,1,14,4,0,我方全体,引导魔力，全队魔力与灵性大幅提升。
+skill_cas_meteor,陨石术,主动,1,23,6,125,全体敌人,召唤陨石，全体敌人 125% 攻击力。
+skill_kni_charge,重装冲锋,主动,1,14,3,92,全体敌人,冲锋撞击全体敌人，92% 攻击力。
+skill_kni_cross_slash,十字斩,主动,1,16,4,165,单体敌人,165% 攻击力的十字重击。
+skill_kni_iron_wall,钢铁壁垒,主动,1,12,4,0,我方全体,结成铁壁，全队耐力大幅提升。
+skill_kni_shield_bash,盾击,主动,1,0,0,120,单体敌人,以盾猛撞，120% 攻击力。
+skill_kni_taunt,守护咆哮,主动,1,11,4,45,我方全体,吸引敌方注意，提升全队灵性并回复生命。
+skill_lan_dragon_pierce,龙牙突,主动,1,19,5,195,单体敌人,全力一击，195% 攻击力。
+skill_lan_impale,贯穿,主动,1,14,3,170,单体敌人,贯穿一击，170% 攻击力。
+skill_lan_phalanx,方阵,主动,1,11,4,0,我方全体,结阵防御，全队耐力与灵性提升。
+skill_lan_pierce,穿刺突刺,主动,1,0,0,135,单体敌人,直线突刺，135% 攻击力。
+skill_lan_sweep,横扫枪,主动,1,13,3,90,全体敌人,长枪横扫全体敌人，90% 攻击力。
+skill_rng_forest_pierce,穿林箭,主动,1,12,3,158,单体敌人,穿透林木的一箭，158% 攻击力并削弱敌方耐力。
+skill_rng_hunters_mark,猎手印记,主动,1,9,3,0,我方全体,标记猎物，全队幸运与敏捷提升。
+skill_rng_leaf_rain,落叶箭雨,主动,1,15,3,88,全体敌人,叶落如箭，对全体敌人造成 88% 攻击力伤害。
+skill_rng_rapid_volley,疾风连射,主动,1,6,1,62,单体敌人,游击连射，三段各 62% 攻击力。
+skill_rng_wind_stride,风行无踪,主动,1,16,5,0,我方全体,踏风而行，全队敏捷、幸运与灵性提升。
+skill_sab_blade_dance,剑舞,主动,1,20,5,105,全体敌人,华丽的连续斩击，对全体敌人造成 105% 攻击力伤害。
+skill_sab_cat_step,猫步迅捷,主动,1,9,3,0,我方全体,轻盈步法，全队敏捷与幸运提升。
+skill_sab_elegant_slash,优雅斩击,主动,1,0,0,128,单体敌人,迅捷而精准的一闪，128% 攻击力。
+skill_sab_iai,拔刀斩,主动,1,12,3,160,单体敌人,居合一闪，160% 攻击力。
+skill_sab_swallow_return,燕返,主动,1,13,2,68,单体敌人,三段回旋斩，每段 68% 攻击力。
+skill_shd_absolute_defense,绝对防御,主动,1,16,5,0,我方全体,展开圣盾，全队耐力与幸运提升。
+skill_shd_bash,盾牌猛击,主动,1,0,0,118,单体敌人,以盾击敌，118% 攻击力。
+skill_shd_holy_guard,圣光守护,主动,1,12,3,55,我方全体,圣光笼罩，全队耐力大幅提升并回复生命。
+skill_shd_radiant_burst,圣光爆裂,主动,1,18,5,108,全体敌人,圣光爆发，对全体敌人造成 108% 攻击力伤害。
+skill_shd_sacrifice,牺牲,主动,1,14,4,85,我方全体,以自身承受伤害换取全队回复。
+skill_tnk_chain_crush,锁链碎击,主动,1,17,5,102,全体敌人,锁链砸击全体敌人，102% 攻击力。
+skill_tnk_flail,流星锤击,主动,1,0,0,128,单体敌人,挥出连枷，128% 攻击力。
+skill_tnk_iron_body,铁壁之躯,主动,1,11,4,0,我方全体,硬化身躯，全队耐力与灵性提升。
+skill_tnk_shared_pain,痛苦共享,主动,1,14,4,75,我方全体,将伤害转化为治疗，回复全队生命。
+skill_tnk_thorn_bind,荆棘缠绕,主动,1,12,4,0,全体敌人,荆棘束缚全体敌人，削弱敏捷与耐力。
+skill_war_crushing_blow,碎骨击,主动,1,15,3,175,单体敌人,175% 攻击力并击碎敌方防御。
+skill_war_heavy_slash,重斩,主动,1,0,0,130,单体敌人,沉重的横斩，130% 攻击力。
+skill_war_unyielding,不屈之志,主动,1,18,6,70,我方全体,绝不倒下：大幅回复生命并提升耐力。
+skill_war_war_cry,战吼,主动,1,10,4,0,我方全体,怒吼提振士气，全队筋力与耐力提升。
+skill_war_whirlwind,旋风斩,主动,1,14,3,98,全体敌人,横扫全体敌人，各 98% 攻击力。
+innate_absolute_defense,绝对防御,被动,0,0,0,0,自身,固有：绝对防御（被动）
+innate_armor_break,破甲,被动,0,0,0,0,自身,固有：破甲（被动）
+innate_arrow_rain,箭雨,被动,0,0,0,0,自身,固有：箭雨（被动）
+innate_bear_doll,小熊玩偶,被动,0,0,0,0,自身,固有：小熊玩偶（被动）
+innate_berserker_blood,狂战士之血,被动,0,0,0,0,自身,固有：狂战士之血（被动）
+innate_birdcage,鸟笼结界,被动,0,0,0,0,自身,固有：鸟笼结界（被动）
+innate_brute_force,怪力无双,被动,0,0,0,0,自身,固有：怪力无双（被动）
+innate_burn_the_boats,破釜沉舟,被动,0,0,0,0,自身,固有：破釜沉舟（被动）
+innate_bushido,武士道,被动,0,0,0,0,自身,固有：武士道（被动）
+innate_butterfly_dance,蝴蝶之舞,被动,0,0,0,0,自身,固有：蝴蝶之舞（被动）
+innate_chain_bind,锁链束缚,被动,0,0,0,0,自身,固有：锁链束缚（被动）
+innate_charm_gaze,魅惑之瞳,被动,0,0,0,0,自身,固有：魅惑之瞳（被动）
+innate_dark_blessing,黑暗祝福,被动,0,0,0,0,自身,固有：黑暗祝福（被动）
+innate_death_gaze,死亡凝视,被动,0,0,0,0,自身,固有：死亡凝视（被动）
+innate_demonize,恶魔化,被动,0,0,0,0,自身,固有：恶魔化（被动）
+innate_despair_waltz,绝望轮舞,被动,0,0,0,0,自身,固有：绝望轮舞（被动）
+innate_destructive_blow,毁灭重击,被动,0,0,0,0,自身,固有：毁灭重击（被动）
+innate_evasion_mastery,闪避精通,被动,0,0,0,0,自身,固有：闪避精通（被动）
+innate_fallen_wings,堕落之翼,被动,0,0,0,0,自身,固有：堕落之翼（被动）
+innate_forest_step,林间疾行,被动,0,0,0,0,自身,固有：林间疾行（被动）
+innate_ghost_step,鬼步,被动,0,0,0,0,自身,固有：鬼步（被动）
+innate_gravity_field,重力场,被动,0,0,0,0,自身,固有：重力场（被动）
+innate_greatshield_mastery,大盾精通,被动,0,0,0,0,自身,固有：大盾精通（被动）
+innate_greatsword_mastery,巨剑精通,被动,0,0,0,0,自身,固有：巨剑精通（被动）
+innate_greatsword_mastery_r,巨剑精通（罗莎）,被动,0,0,0,0,自身,固有：巨剑精通（罗莎）（被动）
+innate_guardian_heart,守护之心,被动,0,0,0,0,自身,固有：守护之心（被动）
+innate_hawk_eye,鹰眼,被动,0,0,0,0,自身,固有：鹰眼（被动）
+innate_hold_the_line,坚守阵地,被动,0,0,0,0,自身,固有：坚守阵地（被动）
+innate_holy_barrier,神圣壁垒,被动,0,0,0,0,自身,固有：神圣壁垒（被动）
+innate_howl,战吼,被动,0,0,0,0,自身,固有：战吼（被动）
+innate_iaijutsu,居合术,被动,0,0,0,0,自身,固有：居合术（被动）
+innate_immovable,不动如山,被动,0,0,0,0,自身,固有：不动如山（被动）
+innate_insight,看破,被动,0,0,0,0,自身,固有：看破（被动）
+innate_instant_death,即死攻击,被动,0,0,0,0,自身,固有：即死攻击（被动）
+innate_iron_wall,铁壁,被动,0,0,0,0,自身,固有：铁壁（被动）
+innate_lance_mastery,骑枪精通,被动,0,0,0,0,自身,固有：骑枪精通（被动）
+innate_lethal_strike,致命一击,被动,0,0,0,0,自身,固有：致命一击（被动）
+innate_life_blessing,生命祝福,被动,0,0,0,0,自身,固有：生命祝福（被动）
+innate_life_drain,生命汲取,被动,0,0,0,0,自身,固有：生命汲取（被动）
+innate_light_of_healing,治愈之光,被动,0,0,0,0,自身,固有：治愈之光（被动）
+innate_magic_mastery,魔法精通,被动,0,0,0,0,自身,固有：魔法精通（被动）
+innate_magic_pierce,破魔之枪,被动,0,0,0,0,自身,固有：破魔之枪（被动）
+innate_magic_talent,魔法天赋,被动,0,0,0,0,自身,固有：魔法天赋（被动）
+innate_maid_intuition,女仆的直觉,被动,0,0,0,0,自身,固有：女仆的直觉（被动）
+innate_nature_affinity,自然亲和,被动,0,0,0,0,自身,固有：自然亲和（被动）
+innate_nine_lives,九命猫,被动,0,0,0,0,自身,固有：九命猫（被动）
+innate_noble_blood,高贵血统,被动,0,0,0,0,自身,固有：高贵血统（被动）
+innate_poison_blade,毒刃,被动,0,0,0,0,自身,固有：毒刃（被动）
+innate_sacrifice,牺牲,被动,0,0,0,0,自身,固有：牺牲（被动）
+innate_shadow_step,暗影步,被动,0,0,0,0,自身,固有：暗影步（被动）
+innate_shared_pain,痛苦共享,被动,0,0,0,0,自身,固有：痛苦共享（被动）
+innate_soul_drain,灵魂吸取,被动,0,0,0,0,自身,固有：灵魂吸取（被动）
+innate_swallow_return,燕返,被动,0,0,0,0,自身,固有：燕返（被动）
+innate_tail_sweep,尾巴扫击,被动,0,0,0,0,自身,固有：尾巴扫击（被动）
+innate_taunt,嘲讽,被动,0,0,0,0,自身,固有：嘲讽（被动）
+innate_tea_time,茶会时间,被动,0,0,0,0,自身,固有：茶会时间（被动）
+innate_tormenter_joy,拷问者的愉悦,被动,0,0,0,0,自身,固有：拷问者的愉悦（被动）
+innate_unyielding_will,不屈意志,被动,0,0,0,0,自身,固有：不屈意志（被动）
+innate_wind_guide,风之指引,被动,0,0,0,0,自身,固有：风之指引（被动）
+innate_wraith_body,幽冥之躯,被动,0,0,0,0,自身,固有：幽冥之躯（被动）
+passive_battle_focus,战斗专注,被动,0,0,0,0,自身,固有：临战不乱，连击倾向提升（被动）。
+passive_iron_will,钢铁意志,被动,0,0,0,0,自身,固有：意志坚定，灵性提升（被动）。
+passive_keen_eye,鹰眼,被动,0,0,0,0,自身,固有：洞察弱点，幸运提升（被动）。
+passive_mana_flow,魔力回流,被动,0,0,0,0,自身,固有：魔力充盈，魔力提升（被动）。
+passive_might,怪力,被动,0,0,0,0,自身,固有：天生神力，筋力提升（被动）。
+passive_second_wind,回气,被动,0,0,0,0,自身,固有：呼吸绵长，每回合恢复少量生命（被动）。
+passive_swift,疾风,被动,0,0,0,0,自身,固有：步伐轻盈，敏捷提升（被动）。
+passive_toughness,强韧,被动,0,0,0,0,自身,固有：常年淬炼，耐力成长更佳（被动）。
